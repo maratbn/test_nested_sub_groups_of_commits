@@ -3,4 +3,4 @@ This is also for feature 1, 2nd commit.
 This is for feature 1 as well, 3rd commit.
 
 Feature 2A commit 1.
-
+Feature 2A commit 2.
